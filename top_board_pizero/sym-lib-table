@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SK6812MINI-EA")(type "KiCad")(uri "${KIPRJMOD}/SK6812MINI-EA.kicad_sym")(options "")(descr ""))
+)

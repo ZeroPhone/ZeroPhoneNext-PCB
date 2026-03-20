@@ -1,0 +1,114 @@
+(footprint "MICROPHONE"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "2-way 3.5mm pitch terminal block, Phoenix PT series")
+	(property "Reference" "W3"
+		(at 0.48 -4.299998 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c39bc70a-f081-4d0e-b8bd-9a9ca6af61a5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MIC"
+		(at -0.635 4.445 0)
+		(layer "F.Fab")
+		(uuid "e1422a8f-c2d0-41d3-bf71-4d5adece1e63")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b333903-4f75-499d-8c0c-893673cd7abb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0db56dae-31e8-4db3-9984-63f5ea7dd5d5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 3.174999 -1.270001)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7a2279c4-7c2c-4a2c-941c-46d1349d2066")
+	)
+	(pad "1" thru_hole oval
+		(at -1.270001 0)
+		(size 2.079999 2)
+		(drill 1
+			(offset 0.010001 0)
+		)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(uuid "fdf7a84b-ae06-4ce1-9ce8-56737ab85c7c")
+	)
+	(pad "1" thru_hole oval
+		(at -0.635 0)
+		(size 1 1)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d2b2f721-f7ef-484b-9166-fa01d508affc")
+	)
+	(pad "2" thru_hole oval
+		(at 0.635 0)
+		(size 1 1)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "656bc7b9-ad62-4e43-82a9-a8d90572bae3")
+	)
+	(pad "2" thru_hole oval
+		(at 1.270001 0)
+		(size 1.979998 2)
+		(drill 1
+			(offset -0.06 0)
+		)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(uuid "b6121f25-6481-4331-b768-aef2f0a1e811")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/libs/Microphone/Microphone.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

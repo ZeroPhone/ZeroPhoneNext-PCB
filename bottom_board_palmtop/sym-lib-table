@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "usb_mc710")(type "KiCad")(uri "${KIPRJMOD}/usb_mc710.kicad_sym")(options "")(descr ""))
+  (lib (name "KeebDeck_Keyboard")(type "KiCad")(uri "${KIPRJMOD}/keebdeck/KeebDeck_Keyboard.kicad_sym")(options "")(descr ""))
+  (lib (name "keebdeck_ind")(type "KiCad")(uri "${KIPRJMOD}/keebdeck/keebdeck_ind.kicad_sym")(options "")(descr ""))
+  (lib (name "wusb3801")(type "KiCad")(uri "${KIPRJMOD}/wusb3801.kicad_sym")(options "")(descr ""))
+  (lib (name "ap62600")(type "KiCad")(uri "${KIPRJMOD}/ap62600.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS2121")(type "KiCad")(uri "${KIPRJMOD}/TPS2121.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "bottom_board_palmtop")(type "KiCad")(uri "${KIPRJMOD}")(options "")(descr ""))
+  (lib (name "KeebDeck_Keyboard")(type "KiCad")(uri "${KIPRJMOD}/keebdeck/KeebDeck_Keyboard.pretty")(options "")(descr ""))
+)

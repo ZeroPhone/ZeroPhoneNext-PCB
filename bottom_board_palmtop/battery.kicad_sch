@@ -10925,7 +10925,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C576410"
+		(property "LCSC Part" "C337906"
 			(at 107.95 115.57 90)
 			(effects
 				(font
@@ -11195,7 +11195,7 @@
 				)
 			)
 		)
-		(property "Value" "LED 0603"
+		(property "Value" "LED 0603 Orange"
 			(at 254 127.254 0)
 			(effects
 				(font
@@ -13152,7 +13152,7 @@
 				)
 			)
 		)
-		(property "Value" "LED 0603"
+		(property "Value" "LED 0603 Orange"
 			(at 254 49.784 0)
 			(effects
 				(font
@@ -14011,6 +14011,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 34.29 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C25905"
 			(at 34.29 118.11 0)
 			(effects
 				(font
@@ -17835,7 +17844,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C17621"
 			(at 138.43 189.23 0)
 			(effects
 				(font
@@ -18817,7 +18826,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C25905"
+		(property "LCSC Part" "C25794"
 			(at 213.36 38.1 0)
 			(effects
 				(font
@@ -18904,7 +18913,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C25905"
+		(property "LCSC Part" "C25794"
 			(at 217.17 24.13 0)
 			(effects
 				(font
@@ -20378,6 +20387,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C7511322"
+			(at 152.4 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c95cce87-726f-4789-af6a-6f1dc6cb41bf")
 		)
@@ -21448,7 +21466,7 @@
 				)
 			)
 		)
-		(property "Value" "LED 0603"
+		(property "Value" "LED 0603 Orange"
 			(at 254 100.584 0)
 			(effects
 				(font
@@ -21647,7 +21665,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C64658"
 			(at 268.732 101.6 0)
 			(effects
 				(font
@@ -23147,7 +23165,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b8237f98-9e99-4cf3-a78f-f0eb5df0be68")
-		(property "Reference" "JJ10"
+		(property "Reference" "J10"
 			(at 275.336 127.508 0)
 			(effects
 				(font
@@ -23190,7 +23208,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C64658"
 			(at 268.732 128.27 0)
 			(effects
 				(font
@@ -23219,7 +23237,7 @@
 		(instances
 			(project "bottom_board_palmtop"
 				(path "/8978b49f-2e56-47e1-8d7c-c31ed8b7a8ae/302b4957-4a57-4c5f-969c-c84eae9303f5"
-					(reference "JJ10")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -24718,7 +24736,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C64658"
 			(at 268.732 50.8 0)
 			(effects
 				(font
@@ -24771,7 +24789,7 @@
 				)
 			)
 		)
-		(property "Value" "LED 0603"
+		(property "Value" "LED 0603 Orange"
 			(at 254 75.184 0)
 			(effects
 				(font
@@ -25032,7 +25050,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C576410"
+		(property "LCSC Part" "C337906"
 			(at 168.91 49.53 90)
 			(effects
 				(font
@@ -27306,7 +27324,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C64658"
 			(at 268.732 76.2 0)
 			(effects
 				(font

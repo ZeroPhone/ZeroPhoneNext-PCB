@@ -12552,9 +12552,9 @@
 		(at 116.84 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f7d6ed22-2bf9-4a6d-8152-91eac443aae2")
 		(property "Reference" "SW1"
 			(at 114.808 12.446 0)

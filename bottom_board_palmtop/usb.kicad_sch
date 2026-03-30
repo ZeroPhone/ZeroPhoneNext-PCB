@@ -7249,6 +7249,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C3039315"
+			(at 24.13 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A5"
 			(uuid "9a421b1f-e0d6-400d-a91c-1212bff2801a")
 		)
@@ -8341,6 +8350,15 @@
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
 			(at 143.51 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C165948"
+			(at 143.51 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9634,6 +9652,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C3039315"
+			(at 265.43 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A5"
 			(uuid "cac6bcf2-5868-4a92-9f83-40c917261ed0")
 		)
@@ -9876,7 +9903,7 @@
 				)
 			)
 		)
-		(property "Value" "LED 0603"
+		(property "Value" "LED 0603 Green"
 			(at 95.25 171.196 0)
 			(effects
 				(font
@@ -9912,7 +9939,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C965801"
+		(property "LCSC Part" ""
 			(at 92.71 171.45 0)
 			(effects
 				(font
@@ -13670,7 +13697,7 @@
 				)
 			)
 		)
-		(property "Value" "LED 0603"
+		(property "Value" "LED 0603 Green"
 			(at 182.88 140.716 0)
 			(effects
 				(font
@@ -13706,7 +13733,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C965801"
+		(property "LCSC Part" ""
 			(at 185.42 140.97 0)
 			(effects
 				(font

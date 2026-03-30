@@ -12658,16 +12658,16 @@
 			(uuid "d9dbba51-93ae-4f40-9b00-ccadd674db6b")
 		)
 		(pin "1"
-			(uuid "3b327efd-f285-4ef4-a269-812ed0073d3e")
+			(uuid "3b327efd-f285-4ef4-a269-812ed0073d41")
 		)
 		(pin "5"
 			(uuid "04b8393e-3d1e-4695-92ef-a8ed3bba7434")
 		)
 		(pin "6"
-			(uuid "5aab8dbd-8758-4093-acd3-55115f791fb7")
+			(uuid "5aab8dbd-8758-4093-acd3-55115f791fba")
 		)
 		(pin "2"
-			(uuid "c15ff57b-64b8-4924-b805-717ec8872a04")
+			(uuid "c15ff57b-64b8-4924-b805-717ec8872a07")
 		)
 		(pin "3"
 			(uuid "026a4ec6-6223-40cb-84f7-56428205e9e3")

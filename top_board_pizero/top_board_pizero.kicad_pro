@@ -515,7 +515,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "top_board_pizero.step",
       "svg": "",
       "vrml": ""
     },

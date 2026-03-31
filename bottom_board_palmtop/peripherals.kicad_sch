@@ -10853,6 +10853,79 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 31.75 76.2 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(uuid "9cd4870a-6f82-40c8-aca0-b1783c1dd84a")
+		(property "Reference" "TP36"
+			(at 44.45 76.454 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "T_5V"
+			(at 38.862 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "bottom_board_palmtop:TestPoint_Pad_0.6x0.6mm"
+			(at 31.75 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 31.75 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 31.75 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alternatives" ""
+			(at 31.75 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b4da7e66-37c6-4ed8-a232-b25a83e828fe")
+		)
+		(instances
+			(project "bottom_board_palmtop"
+				(path "/8978b49f-2e56-47e1-8d7c-c31ed8b7a8ae/0c6b5fa6-e988-4584-9433-105aa03f0fd6"
+					(reference "TP36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "sw_spdt_pcm12_sh:SW_SPDT")
 		(at 186.69 82.55 0)
 		(unit 1)
@@ -13299,6 +13372,71 @@
 			(project "bottom_board_palmtop"
 				(path "/8978b49f-2e56-47e1-8d7c-c31ed8b7a8ae/0c6b5fa6-e988-4584-9433-105aa03f0fd6"
 					(reference "#PWR0254")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 31.75 76.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f279b8a5-c65b-4144-b397-04595f155abc")
+		(property "Reference" "#PWR0147"
+			(at 35.56 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 26.416 76.454 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 31.75 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8b550a71-f419-4a87-b19a-67b1dd6a43f3")
+		)
+		(instances
+			(project "bottom_board_palmtop"
+				(path "/8978b49f-2e56-47e1-8d7c-c31ed8b7a8ae/0c6b5fa6-e988-4584-9433-105aa03f0fd6"
+					(reference "#PWR0147")
 					(unit 1)
 				)
 			)
